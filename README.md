@@ -32,7 +32,7 @@ After deploying the contract locally, we performed a transaction to confirm that
 This contract should be distributing different percentages of incoming Ether to employees at different tiers/levels. So we performed a transaction to confirm that the balance is distributed to all three addresses according to the requirements. Below screenshot confirms the balances after the transaction. The original balance shown above was incremented according to the percentage allocation for each employee (address).
 
 <p align="center">
-<img src="./images/TieredProfitSplitter _1.png?raw=true" alt="Smart contract"/>
+<img src="./images/TieredProfitSplitter_1.png?raw=true" alt="Smart contract"/>
 </p>
 <br>
 
